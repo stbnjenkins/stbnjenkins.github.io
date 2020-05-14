@@ -9,7 +9,7 @@ name: Esteban Jenkins' Blog
 description: BI Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/avatar.png
+avatar: https://github.com/stbnjenkins/stbnjenkins.github.io/raw/master/images/avatar.png
 
 #
 # Flags below are optional
